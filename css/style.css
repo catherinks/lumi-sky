@@ -178,7 +178,7 @@ margin: 1rem 0 1rem 0;
 }
 
 .menu-link:hover{
-    color: var(--dark-gray);
+    color: var(--yellow);
 }
 
 /* menu adaptive */
@@ -233,7 +233,7 @@ margin: 1rem 0 1rem 0;
     }
 
     .about-title{
-        font-size: 32px;
+        font-size: 30px;
         margin-top: 50px;
     }
 
@@ -241,7 +241,7 @@ margin: 1rem 0 1rem 0;
         margin-top: 50px;
     }
     .about__content-text{
-        font-size: 18px;
+        font-size: 15px;
         line-height: 1.8;
     }
 }
@@ -1498,4 +1498,22 @@ font-family: 'Ubuntu', sans-serif;
             flex-direction: column;
             margin-left: 2em;
         }
+
+        .form-img{
+            display: none;
+        }
+        .booking__form {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding: 1em;
     }
+    .order{
+        display: flex;
+        justify-content: center;
+        grid-template-columns: 1/3;
+    }
+    .scheme{
+        max-width: 100%;
+    }
+}
