@@ -1262,6 +1262,10 @@ input[name="slide"] {
     object-fit: cover;
 }
 
+.swiper-slide-shadow{
+    height: 0;
+}
+
 .swiper-button-prev,
 .swiper-button-next {
     color: var(--yellow);
