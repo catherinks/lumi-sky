@@ -9,7 +9,7 @@ const swiper = new Swiper('.swiper', {
         pagination: {
             el: '.swiper-pagination',
         },
-        effect: 'cube',
+        effect: 'cards',
         fadeEffect: {
             crossFade : true
         },
