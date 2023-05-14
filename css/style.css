@@ -1256,9 +1256,6 @@ input[name="slide"] {
     margin: 0 auto;
     margin-top: 30px;
 }
-.swiper-cube-shadow {
-    display: none;
-}
 
 .swiper-wrapper img {
     max-width: 100%;
