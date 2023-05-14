@@ -1262,7 +1262,7 @@ input[name="slide"] {
     object-fit: cover;
 }
 
-.swiper-slide-shadow{
+.swiper-3d .swiper-slide-shadow, .swiper-3d .swiper-slide-shadow-bottom, .swiper-3d .swiper-slide-shadow-left, .swiper-3d .swiper-slide-shadow-right, .swiper-3d .swiper-slide-shadow-top{
     height: 0;
 }
 
