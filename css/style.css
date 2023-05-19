@@ -821,6 +821,13 @@ color: var(--yellow);
     }
 }
 
+@media (max-width: 800px) {
+
+    #mybtn {
+        display: none;
+    }
+}
+
 
 /* **********  страница hall  *********** */
 
