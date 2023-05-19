@@ -1292,6 +1292,8 @@ input[name="slide"] {
     .photo__slider, .hidden {
         display: none;
     }
+    .swiper-button-next, .swiper-button-prev {
+  top: var(--swiper-navigation-top-offset,30%);
 }
 
 /* ********  бронирование ******** */
