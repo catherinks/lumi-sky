@@ -1247,7 +1247,7 @@ input[name="slide"] {
     margin-left: -75%;
 }
 #sl4:checked~.picture_active {
-    margin-left: -90%;
+    margin-left: -120%;
 }
 /* слайдер js */
 .swiper {
