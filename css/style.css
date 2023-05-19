@@ -1244,7 +1244,7 @@ input[name="slide"] {
     margin-left: -25%;
 }
 #sl3:checked~.picture_active {
-    margin-left: -60%;
+    margin-left: -75%;
 }
 #sl4:checked~.picture_active {
     margin-left: -90%;
