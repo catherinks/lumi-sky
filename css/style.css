@@ -1417,7 +1417,7 @@ font-family: 'Ubuntu', sans-serif;
 /* адаптация */ 
     /* адаптация */ 
 
-@media (min-width: 1950px) {
+@media (max-width: 1950px) {
     .booking__scheme{
         display: flex;
         justify-content: center;
